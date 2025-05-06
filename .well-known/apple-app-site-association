@@ -7,8 +7,8 @@
             ],
             "components": [
                 {
-                    "/": "/examples/servlets",
-                    "comment": "Matches the URL whose path is /personas/app-bci/asistente-de-voz-bci"
+                    "/": "/beneficios/beneficios-bci/detalle/*",
+                    "comment": "Matches the URL whose path is /loyalty/bciplus/mainflow/offer/maquillaje-productos-de-belleza-cuidado-del-cabello-y-mas.-c08x00g"
                 },
                 {
                     "/": "/personas/creditos-de-consumo",
