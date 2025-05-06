@@ -1,0 +1,110 @@
+{
+    "applinks": {
+        "details": [
+            {
+            "appIDs": [
+                "2E2EMRJ7QY.cl.bci.app.personas"
+            ],
+            "components": [
+                {
+                    "/": "/examples/servlets",
+                    "comment": "Matches the URL whose path is /personas/app-bci/asistente-de-voz-bci"
+                },
+                {
+                    "/": "/personas/creditos-de-consumo",
+                    "comment": "Matches the URL whose path is /personas/creditos-de-consumo"
+                },
+                {
+                    "/": "/personas/mis-finanzas-y-alcancia-bci/alcancia-bci",
+                    "comment": "Matches the URL whose path is /personas/mis-finanzas-y-alcancia-bci/alcancia-bci"
+                },
+                {
+                    "/": "/personas/mis-finanzas-y-alcancia-bci/mis-finanzas",
+                    "comment": "Matches the URL whose path is /personas/mis-finanzas-y-alcancia-bci/mis-finanzas"
+                },
+                {
+                    "/": "/inversiones/soluciones-de-inversion/depositos-a-plazo",
+                    "comment": "Matches the URL whose path is /inversiones/soluciones-de-inversion/depositos-a-plazo"
+                },
+                {
+                    "/": "/inversiones/soluciones-de-inversion/carteras-dinamicas",
+                    "comment": "Matches the URL whose path is /inversiones/soluciones-de-inversion/carteras-dinamicas"
+                },
+                {
+                    "/": "/inversiones/soluciones-de-inversion",
+                    "comment": "Matches the URL whose path is /inversiones/soluciones-de-inversion"
+                },
+                {
+                    "/": "/personas/machpay",
+                    "comment": "Matches the URL whose path is /personas/machpay"
+                },
+                {
+                    "/": "/corredora-de-seguros/seguros/seguro-automotriz",
+                    "comment": "Matches the URL whose path is /corredora-de-seguros/seguros/seguro-automotriz"
+                },
+                {
+                    "/": "/corredora-de-seguros/proteccion-integral/seguro-antirrobo",
+                    "comment": "Matches the URL whose path is /corredora-de-seguros/proteccion-integral/seguro-antirrobo"
+                },
+                {
+                    "/": "/corredora-de-seguros",
+                    "comment": "Matches the URL whose path is /corredora-de-seguros"
+                },
+                {
+                    "/": "/personas/tarjetas",
+                    "comment": "Matches the URL whose path is /personas/tarjetas"
+                },
+                {
+                    "/": "/personas/tarjetas/opensky",
+                    "comment": "Matches the URL whose path is /personas/tarjetas/opensky"
+                },
+                {
+                    "/": "/personas/teleton",
+                    "comment": "Matches the URL whose path is /personas/teleton"
+                },
+                {
+                    "/": "/beneficios/bciplus",
+                    "comment": "Matches the URL whose path is /beneficios/bciplus"
+                },
+		{
+		    "/": "/ecosistema/p2msdk",
+                    "comment": "Matches the URL whose path is /ecosistema/p2msdk"
+		},
+		{
+		    "/": "/personas",
+                    "comment": "Matches the URL whose path is /personas"
+		}
+            ]
+            },
+            {
+                "appIDs": [
+                    "2E2EMRJ7QY.cl.bci.app.empresarios"
+                ],
+                "components": [
+                    {
+                        "/": "/pyme",
+                        "comment": "Matches the URL whose path is /pyme"
+                    },
+                    {
+                        "/": "/pyme/productos/tarjeta-de-credito",
+                        "comment": "Matches the URL whose path is /pyme/productos/tarjeta-de-credito"
+                    },
+                    {
+                        "/": "/pyme/factoring",
+                        "comment": "Matches the URL whose path is /pyme/factoring"
+                    },
+                    {
+                        "/": "/pyme/depositos-a-plazo/",
+                        "comment": "Matches the URL whose path is /pyme/depositos-a-plazo/"
+                    }
+                ]
+            }
+        ]
+    },
+    "appclips": {
+        "apps": [
+            "2E2EMRJ7QY.cl.bci.app.personas.Clip",
+            "2E2EMRJ7QY.cl.bci.app.empresarios.Clip"
+        ]
+    }
+}
